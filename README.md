@@ -11,3 +11,5 @@ Deployed on Raspberry Pi!
 Hello World 0301
 
 Issue追加・リポジトリ削除テスト
+
+Issue追加・リポジトリ削除・GitHubトリガー
