@@ -9,3 +9,5 @@ This is a test repository.
 Deployed on Raspberry Pi!
 
 Hello World 0301
+
+Issue追加・リポジトリ削除テスト
